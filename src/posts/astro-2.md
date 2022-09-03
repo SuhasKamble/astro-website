@@ -1,0 +1,9 @@
+---
+title: Astro 2 Release
+slug: astro-2
+excerpt: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam natus, velit vero aperiam error fuga sint illo quibusdam expedita. Temporibus, facere veniam blanditiis deserunt reprehenderit obcaecati totam sunt vitae culpa?
+date: 2022-05-20
+author: John Doe
+---
+
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. At officia maxime consectetur impedit aspernatur maiores hic nulla veniam, suscipit et eius corrupti illo, excepturi in laboriosam deserunt iusto minima labore id nemo rerum architecto, laudantium dignissimos. Nostrum quod inventore porro molestias similique nobis maiores recusandae eaque ducimus ea exercitationem tenetur obcaecati adipisci harum vitae numquam iure, sint ut doloribus asperiores! Saepe, ipsam distinctio! Vel error ullam, cupiditate, tempore rem ducimus eum praesentium dolorem, at soluta ex repellat itaque suscipit fugiat optio ab similique. Id, ipsam maxime. Laborum officia sed ipsam facilis ex est impedit excepturi, accusamus inventore quo nemo repellendus deleniti ducimus beatae mollitia omnis. Cumque nostrum dicta provident, optio autem sit modi officiis cum delectus tenetur perferendis itaque odio exercitationem, similique earum iusto eum perspiciatis id asperiores necessitatibus ut. Ea explicabo commodi voluptates dignissimos aut unde veritatis et similique ad esse expedita, repudiandae in aliquid vero architecto sapiente ex eos nulla consectetur minima dicta veniam voluptatem placeat perspiciatis! Maiores fuga aliquid cumque, quod ducimus id minima, est quidem dignissimos quis voluptatibus quam voluptatem. Et dolorum labore quas sint iste minus! Repellat ex distinctio doloribus blanditiis itaque eius corrupti recusandae facere aperiam nihil id necessitatibus a, mollitia placeat sint cum.
